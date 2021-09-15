@@ -1,0 +1,85 @@
+.customeHeaderbg{ background: #ccc}
+.customerpagebg{ background: #f6f6f6;}
+.productcustomespace>div{ padding-left: 3px;padding-right: 3px;}
+.card_space_remove{padding: 5px !important;}
+.card_img_mr{margin-left: 13px;}
+.hoverset+.hoverset{margin-top: 5px;}
+.hoverset:hover{ background: #edfffc;}
+.txalleft{ text-align: left;}
+.customerText{ padding-left: 20px;}
+.customerText h6{ color: #cfcdcf ; font-size: 10px; text-transform: uppercase; margin: 0px;}
+.customerText h4{ color: #1c57a9; font-size: 14px; text-transform: uppercase;margin: 0px; font-weight: bold;}
+.customerText h5{ color: #141314; font-size: 12px; margin: 0px; font-weight: 500;}
+.ptL{ padding-left: 20px!important;}
+.ptL26{ padding-left: 26px !important;}
+.btncustomespace{padding: 3px 15px !important;}
+.detailbtn{ text-transform: uppercase;  font-size: 14px !important; font-weight: 400 !important;}
+.detailbtn:hover{ color: #fff !important;}
+.colpdR{padding-right: 15px !important;}
+
+.viewpast{color: #008b8f; font-size: 11px; text-align: right; font-weight: 500; text-transform: uppercase;}
+.viewpast a{ text-decoration: none;color: #008b8f;}
+.rowmt10{ margin-top: 10px !important;margin-bottom: 3px !important;}
+.onlyleftalign{ text-align: left;}
+.onlyleftuppercase{ text-transform: uppercase;}
+.discounttext{ font-size: 13px; font-weight: bold;}
+.entryfeesinput{width: 70px !important;
+    display: inline-block !important;
+    padding: 0px 5px !important;
+    margin: 0px;
+    min-height: 23px !important;
+    border-radius: 0 !important;
+    background-color:#f0f4ff !important;
+    font-size: inherit; border:none !important;
+     text-align: center !important;}
+     .entryfeesinput.newamount {width:50px !important}
+     .lableF{ font-size: 10px; color: #575757; font-weight: 500; padding-bottom: 3px;     text-transform: uppercase;}
+     .lableD{ font-size: 10px; color: #575757; font-weight: 500; padding-bottom: 0px;     text-transform: uppercase;}
+     .setspace{ padding: 0 14px;}
+     .setspace>div{ text-align: left; padding:0px; position: relative;}
+     .setspace .row{ margin: 0 0px !important; }
+     .cardbody{padding: 0px !important;}
+.doller{float: left;}
+.datepicker{width: 96%;
+    font-size: 10px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: solid 1px #ccc;
+    padding: 5px;     height: 29px;}
+    .border_Right{ border-right:solid 1px #ccc;}
+    .padding_LeftDate{ padding-left: 10px !important;}
+    .closepostionSet{ position: absolute;  top: 16px;  right: 7px; }
+    .label_Fixed{float: left;
+        width: 100%;
+        text-align: left;
+        font-size: 12px;
+        padding-top: 10px;
+        font-weight: 500;
+        color: #575757; text-transform: uppercase;}
+        .settobetween{font-size: 10px;
+            color: #575757;
+            font-weight: 500;
+            padding-bottom: 3px;
+            text-transform: uppercase;}
+            .updatesmall{    width: 100% !important;
+                text-align: left !important;}
+.mycle{ width: 99px !important;
+    font-size: 10px !important;
+    font-weight: bold !important;
+    float: left;
+    margin-left: 3px; text-transform: uppercase;
+    height: 29px;}
+    .mycle2{ width: 77px !important;
+        font-size: 12px !important;
+        font-weight: bold !important;
+        float: left;
+        margin-left: 3px;}
+.disrow{float: left; width: 100%; }
+  .cutomertab ul .nav-tabs {
+   
+}
+.cutomertab ul li button{ padding: 3px 15px;}
+.cutomertab ul li button.nav-link.active{ background: #008b8f; color: #fff;}
+.btnupadte{ position: relative;}
+.btnupadte button{position: absolute;  left: 0px; bottom: 15px; background-color:#008b8f ; color: #fff; text-transform: uppercase; padding: 5px 18px !important;}
+.btnupadte button:hover{background-color:#026468 ;}
